@@ -1,2 +1,5 @@
 # learning
-welcome to narayana tech hopuse
+welcome to narayana tech house
+html
+css 
+javascript
